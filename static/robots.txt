@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://gatsbyimprovedstarterblog.gatsbyjs.io/rss.xml
